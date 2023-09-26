@@ -1,7 +1,7 @@
 # EV Parser
 Parser collects cars from websites
 
-### Cofiguration
+### Configuration
 Install in `.env`
 ```
 DB_HOST=127.0.0.1
